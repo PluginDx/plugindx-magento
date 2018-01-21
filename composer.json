@@ -1,0 +1,15 @@
+{
+    "name": "plugindx/magento-extension",
+    "type": "magento-module",
+    "license": "OSL-3.0",
+    "description": "PluginDx for Magento 1.x",
+    "homepage": "https://github.com/plugindx/plugindx-magento",
+    "authors": [{
+        "name": "Jake Johnson",
+        "email": "jake@fastdivision.com",
+        "homepage": "https://plugindx.com"
+    }],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
